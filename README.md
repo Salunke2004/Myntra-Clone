@@ -11,7 +11,7 @@ This project focuses on replicating the UI/UX of a modern e-commerce platform.
 
 📸 Screenshots
 
-(Add screenshots of your project here)
+![Myntra-Clone](Myntra_Clone.png)
 
 ---
 
