@@ -3,11 +3,7 @@
 A stylish frontend clone of the Myntra website built using HTML and CSS.
 This project focuses on replicating the UI/UX of a modern e-commerce platform.
 
-🌐 Live Demo
 
-👉 (Add your GitHub Pages link here later)
-
----
 
 📸 Screenshots
 
